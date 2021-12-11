@@ -1,0 +1,51 @@
+/*Edited Last by Don Redd, Dec 10, 2021*/
+
+h5 {
+    font-size: larger;
+    color: #3a1f1fb6;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(15, 12, 184);
+    font-style: italic;
+}
+
+h4 {
+    text-align: center;
+}
+
+.aboutmebody {
+    color: black;
+    font-weight: bold;
+    background-image: url(../images/rockwhite.jpg);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.indexbody {
+    background-image: url(../images/whitebackground.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+img {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+
+ iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}

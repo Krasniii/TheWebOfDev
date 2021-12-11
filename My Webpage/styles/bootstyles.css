@@ -1,0 +1,44 @@
+/*Edited Last by Don Redd, Dec 10, 2021*/
+
+Body {
+    background-size: contain;
+    color: cornflowerblue;
+}
+
+.bkgbdy {
+    background-image: url(../images/minimalcode.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.navnav {
+    display: flex;
+    list-style-type: none;
+    color: lightgray;
+}
+
+li { 
+    margin: 5px;
+    text-align: center;
+}
+
+a {
+    color: snow;
+}
+
+ul {
+    background-color: steelblue;
+}
+
+div {
+    align-items: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+footer {
+    background-color: brown;
+    text-align: center;
+}
